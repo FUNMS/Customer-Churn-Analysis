@@ -49,38 +49,33 @@ Hyperparameter tuning will be conducted only on those baseline models that achie
 
 ##### **Hypothesis**
 
-•  Null Hypothesis (Ho): There is a significant difference in churn rates between customers who have received promotional offers.
+- Null Hypothesis (Ho):There is a no significant relationship between the total amount charged to a customer and their likelihood of churning.
 
- •Alternate Hypothesis (Ha) : There is no significant difference in churn rates between customers who have recieved promotional offers
-
-
+- Alternative Hypothesis (H1):- There is a significant relationship between the total amount charged to a customer and their likelihood of churning
 
 
-##### **Analytical Questions**
+
+
+
+###### **Analytical Questions**
 I.	What are the key demographic and behavioral characteristics of customers who churn compared to those who stay?
 
 Insights derrived can include whether certain age groups or regions are more prone to churn, or if specific behaviors (like low usage or frequent complaints) correlate with higher churn rates. 
 
 II.	Is there a relationship between the payment methods used by customers and their likelihood to churn?
 
-Insights include identifying the payment methods used by customers and their likelihood to churn.
+Insights include identifying whether the payment methods used by customers influence churning. 
 
-III. Is there a difference in customer churn based on the type of internet service they use compared to other factors?
 
-Insights include identifying the most important factors like service quality, pricing competitiveness that contribute to churn, and how they interact with each other.
-
-IV What is the proportion of cusotmers who have churned to those who have not?
+Iii.Is there a relationship between the payment methods chosen by customers and their likelihood to churn?
 
 Insights include understanding the impact of economic conditions, competitor actions, and market trends on customer churn rates.
 
+IV. How does the length of time a customer has been with the company (tenure) impact their likelihood of churning? Are newer customers more likely to churn than long-term customers?"
 V.	What is the overall churn rate compared across different contract types?
 
 Insights include understanding the overall churn rate across different contract types.
 
-vi How do churn rates vary between customers using DSL, Fiber Optic, or no internet service?
-
-How does the length of time a customer has been with the company (tenure) impact their likelihood of churning? Are newer customers more likely to churn than long-term customers?"
-   ]
 
 
 ##### **Scope and Constraints**
