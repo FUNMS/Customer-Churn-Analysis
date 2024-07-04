@@ -55,6 +55,23 @@ Hyperparameter tuning will be conducted only on those baseline models that achie
 
 
 
+Interpretation
+1.	Significance Level (Alpha):
+o	Commonly used alpha levels are 0.05, 0.01, or 0.001. In this case, let's use an alpha level of 0.05.
+2.	P-Value Comparison:
+o	The p-value (6.828411681624881e-59) is much smaller than the alpha level of 0.05. In scientific notation, 6.828411681624881e-59 is a number very close to zero, indicating a very low probability that the observed differences in total charges are due to random chance.
+3.	Conclusion:
+o	Since the p-value is much smaller than 0.05, we reject the null hypothesis (H0). This means that there is a statistically significant difference in total charges between customers who churned and those who did not churn.
+o	The significant difference implies that the total charges are related to whether a customer churns or not. Customers who churn tend to have different total charges compared to those who do not churn.
+Practical Implications
+•	Business Insight:
+o	This result suggests that the amount charged to customers is an important factor related to churn.
+o	Higher or lower total charges might be contributing to the likelihood of customers leaving the service.
+•	Actionable Steps:
+o	Investigate further to understand how total charges impact churn. Look into patterns such as whether customers with higher charges are more likely to churn or vice versa.
+o	Consider strategies to address the issues leading to churn, which could include adjusting pricing, improving customer service, or offering targeted promotions to at-risk customers.
+In summary, the Mann-Whitney U test indicates a significant difference in total charges between churned and non-churned customers, providing valuable insights into customer behavior and potential areas for business improvement.
+
 
 
 ###### **Analytical Questions**
