@@ -1,6 +1,6 @@
 Telco Customer Churn Analysis
 
-Customers are the lifeblood of every business, driving profits and revenue growth. In today's data-driven world, the use of machine learning has become indispensable for businesses aiming to analyze customer behavior and predict potential churn. The highly competitive nature of the telecommunications industry makes retaining customers extremely crucial. This project involves accessing and analyzing customer churn data from multiple sources, building a robust classification model, and helping a telecommunication company predict customer churn to improve retention strategies. The objective is to help a telecommunication company understand customer churn and its impact on profitability. Specifically, the team wants to help the client (telecommunication company) predict if a customer will churn or not and identify factors influencing the churn.
+ This project is to help a telecommunication company understand customer churn and its impact on profitability. Specifically, the team wants to help the client (telecommunication company) predict if a customer will churn or not and identify factors influencing the churn.
 
 Goal and Objectives
 
